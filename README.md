@@ -3,11 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jagjeet-singh-23" alt="jagjeet-singh-23" /></a> </p>
 
-- 🔭 I’m currently working on [fire_detection](https://github.com/jagjeet-singh-23/fire_detection)
+- 🔭 I’m currently working on [make-your-own-git](https://github.com/jagjeet-singh-23/make-your-own-git)
 
 - 🌱 I’m currently learning **NumPy, Pandas, TensorFlow, Keras, PyTorch**
-
-- 👯 I’m looking to collaborate on [Hand_gesture_detection](https://github.com/DemonicAK/Hand_gesture_detection)
 
 - 👨‍💻 All of my projects are available at [https://github.com/jagjeet-singh-23/](https://github.com/jagjeet-singh-23/)
 
